@@ -1,8 +1,8 @@
 # Gridfighter 3D
 
-a virtual reality arcade experience
+-- a virtual reality arcade experience --
 
-(c) Jay Hammer (porta2note / Desire), 2017-2018
+(c) Jay Hammer (porta2note / Desire), 2017-present.
 
 This is the official source code for Gridfighter 3D. This source should compile under Microsoft Quickbasic 4.5 for DOS, or any recent version of QB64 for Linux/OS/X/Windows (untested). No additional libraries are needed. Yes, this entire game is written in BASIC, and it's *full* of GOTOs. Deal with it. :P
 
